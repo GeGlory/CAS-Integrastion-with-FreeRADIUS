@@ -1,0 +1,13 @@
+{
+	"@class" : "org.apereo.cas.services.RegexRegisteredService",
+	"serviceId" : "^http://cas.example.org/hotspot(\\z|/.*)",
+	"name" : "Hotspot",
+	"id" : 1611693295,
+	"description" : "Hotspot with CAS",
+	"attributeReleasePolicy" : {
+	"@class" : "org.apereo.cas.services.ReturnAllAttributeReleasePolicy"
+	},
+	"evaluationOrder" : 1110,
+	"logoutType" : "BACK_CHANNEL",
+	"logoutUrl" : "https://cas.example.org:8443/cas/logout"
+}

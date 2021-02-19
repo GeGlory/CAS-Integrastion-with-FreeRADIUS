@@ -1,0 +1,1 @@
+[2021-01-21 15:17:11.062] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/forpus/.vscode'

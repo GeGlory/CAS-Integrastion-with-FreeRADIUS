@@ -1,0 +1,1 @@
+[2021-01-21 16:29:59.877] [renderer3] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/Admin/.vscode'

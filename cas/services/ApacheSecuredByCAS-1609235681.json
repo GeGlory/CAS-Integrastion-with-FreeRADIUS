@@ -1,0 +1,11 @@
+{
+  "@class" : "org.apereo.cas.services.RegexRegisteredService",
+  "serviceId":"^https://cas.test.org:443/secured-by-cas(\\z|/.*)",
+   "name" : "Apache",
+   "id" : 1609235681,
+   "evaluationOrder" : 1,
+   "authenticationPolicy" : {
+    "@class" : "org.apereo.cas.services.DefaultRegisteredServiceAuthenticationPolicy",  
+    "requiredAuthenticationHandlers" : ["java.util.TreeSet", [ "Radius" ]]
+  }
+}

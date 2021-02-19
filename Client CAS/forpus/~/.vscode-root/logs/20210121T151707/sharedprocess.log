@@ -1,0 +1,8 @@
+[2021-01-21 15:17:12.284] [sharedprocess] [info] main {"machineId":"6c37505a6d50a5fcf4db553d46ecebccc538e04666bf3c475f8c5b83b7846959","windowId":2}
+[2021-01-21 15:17:15.920] [sharedprocess] [info] Installing extension: small.php-ci
+[2021-01-21 15:17:17.485] [sharedprocess] [info] Downloaded extension: small.php-ci undefined
+[2021-01-21 15:17:17.922] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.small.php-ci-0.4.2: small.php-ci
+[2021-01-21 15:17:17.922] [sharedprocess] [info] Renamed to /root/.vscode/extensions/small.php-ci-0.4.2
+[2021-01-21 15:17:17.923] [sharedprocess] [info] Installation completed. small.php-ci
+[2021-01-21 15:17:17.929] [sharedprocess] [info] Extensions installed successfully: small.php-ci
+[2021-01-21 15:17:52.314] [sharedprocess] [info] Starting to clean up unused language packs.

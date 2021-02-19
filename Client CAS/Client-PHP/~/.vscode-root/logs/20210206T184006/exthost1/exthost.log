@@ -1,0 +1,88 @@
+[2021-02-06 18:40:10.616] [exthost] [info] extension host started
+[2021-02-06 18:40:10.761] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-02-06 18:40:10.762] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-02-06 18:40:10.803] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-02-06 18:40:10.810] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-02-06 18:40:10.827] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2021-02-06 18:40:10.827] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-02-06 18:40:10.885] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-06 18:40:10.885] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-02-06 18:40:10.974] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2021-02-06 18:40:10.974] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-02-06 18:40:10.980] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2021-02-06 18:40:10.981] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2021-02-06 18:40:10.983] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-rename-tag","_lower":"formulahendry.auto-rename-tag"},"activationEvent":"*"}
+[2021-02-06 18:40:10.983] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/formulahendry.auto-rename-tag-0.1.6/packages/extension/dist/extensionMain.js
+[2021-02-06 18:40:11.716] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-02-06 18:40:11.716] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-02-06 18:40:12.395] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-06 18:40:12.396] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-02-06 18:40:12.435] [exthost] [info] eager extensions activated
+[2021-02-06 18:40:12.464] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-02-06 18:40:12.465] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-02-06 18:40:23.011] [exthost] [info] extension host started
+[2021-02-06 18:40:23.323] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-02-06 18:40:23.323] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-02-06 18:40:23.359] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-02-06 18:40:23.360] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-02-06 18:40:23.383] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2021-02-06 18:40:23.390] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-02-06 18:40:23.562] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-06 18:40:23.562] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-02-06 18:40:23.611] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2021-02-06 18:40:23.611] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-02-06 18:40:23.627] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2021-02-06 18:40:23.627] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2021-02-06 18:40:23.630] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-rename-tag","_lower":"formulahendry.auto-rename-tag"},"activationEvent":"*"}
+[2021-02-06 18:40:23.630] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/formulahendry.auto-rename-tag-0.1.6/packages/extension/dist/extensionMain.js
+[2021-02-06 18:40:24.338] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-02-06 18:40:24.338] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-02-06 18:40:24.965] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-06 18:40:24.966] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-02-06 18:40:25.155] [exthost] [info] eager extensions activated
+[2021-02-06 18:40:25.312] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-02-06 18:40:25.313] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-02-06 18:40:56.827] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"extensionId":{"value":"vscode.php-language-features","_lower":"vscode.php-language-features"},"activationEvent":"onLanguage:php"}
+[2021-02-06 18:40:56.827] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/php-language-features/dist/phpMain
+[2021-02-06 18:40:56.915] [exthost] [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client {"startup":false,"extensionId":{"value":"bmewburn.vscode-intelephense-client","_lower":"bmewburn.vscode-intelephense-client"},"activationEvent":"onLanguage:php"}
+[2021-02-06 18:40:56.915] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.6.3/lib/extension
+[2021-02-06 18:40:57.223] [exthost] [info] ExtensionService#_doActivateExtension small.php-ci {"startup":false,"extensionId":{"value":"small.php-ci","_lower":"small.php-ci"},"activationEvent":"onLanguage:php"}
+[2021-02-06 18:40:57.223] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/small.php-ci-0.4.2/out/src/extension
+[2021-02-06 18:40:58.659] [exthost] [error] [small.php-ci] provider FAILED
+[2021-02-06 18:40:58.692] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:11:10)
+    at new y (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:534:424)
+    at new y (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:531:904)
+    at asPosition (/root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asSymbolInformation (/root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:347:85)
+    at /root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:336:42
+    at Array.map (<anonymous>)
+    at Object.asSymbolInformations (/root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:336:23)
+    at /root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/client.js:986:62
+[2021-02-06 18:40:59.885] [exthost] [error] [small.php-ci] provider FAILED
+[2021-02-06 18:40:59.891] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:11:10)
+    at new y (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:534:424)
+    at new y (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:531:904)
+    at asPosition (/root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asSymbolInformation (/root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:347:85)
+    at /root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:336:42
+    at Array.map (<anonymous>)
+    at Object.asSymbolInformations (/root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:336:23)
+    at /root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/client.js:986:62
+[2021-02-06 18:43:25.782] [exthost] [error] [small.php-ci] provider FAILED
+[2021-02-06 18:43:25.788] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:11:10)
+    at new y (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:534:424)
+    at new y (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:531:904)
+    at asPosition (/root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asSymbolInformation (/root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:347:85)
+    at /root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:336:42
+    at Array.map (<anonymous>)
+    at Object.asSymbolInformations (/root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:336:23)
+    at /root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/client.js:986:62
+    at runNextTicks (internal/process/task_queues.js:59:5)
+    at processImmediate (internal/timers.js:412:9)

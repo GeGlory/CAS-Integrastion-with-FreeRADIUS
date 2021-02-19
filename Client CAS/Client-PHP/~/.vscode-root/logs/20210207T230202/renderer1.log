@@ -1,0 +1,18 @@
+[2021-02-07 23:02:05.618] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/Client-PHP/.vscode'
+[2021-02-08 02:13:43.061] [renderer1] [error] Illegal argument: range: Error: Illegal argument: range
+    at Object.t.illegalArgument (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:11:10)
+    at new ue (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:552:198)
+    at new ue (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:531:904)
+    at new ProtocolDocumentLink (/root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolDocumentLink.js:10:9)
+    at asDocumentLink (/root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:466:20)
+    at Array.map (<anonymous>)
+    at asDocumentLinks (/root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:476:22)
+[2021-02-08 02:13:50.656] [renderer1] [error] Illegal argument: range: Error: Illegal argument: range
+    at Object.t.illegalArgument (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:11:10)
+    at new ue (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:552:198)
+    at new ue (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:531:904)
+    at new ProtocolDocumentLink (/root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolDocumentLink.js:10:9)
+    at asDocumentLink (/root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:466:20)
+    at Array.map (<anonymous>)
+    at asDocumentLinks (/root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:476:22)
+[2021-02-08 12:54:54.431] [renderer1] [warning] Settings pattern "workbench.fontAliasing" doesn't match any settings

@@ -1,0 +1,36 @@
+[2021-02-06 18:40:21.457] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/Client-PHP/.vscode'
+[2021-02-06 18:40:58.736] [renderer1] [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:11:10)
+    at new y (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:534:424)
+    at new y (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:531:904)
+    at asPosition (/root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asSymbolInformation (/root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:347:85)
+    at /root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:336:42
+    at Array.map (<anonymous>)
+    at Object.asSymbolInformations (/root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:336:23)
+    at /root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/client.js:986:62
+[2021-02-06 18:40:59.948] [renderer1] [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:11:10)
+    at new y (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:534:424)
+    at new y (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:531:904)
+    at asPosition (/root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asSymbolInformation (/root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:347:85)
+    at /root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:336:42
+    at Array.map (<anonymous>)
+    at Object.asSymbolInformations (/root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:336:23)
+    at /root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/client.js:986:62
+[2021-02-06 18:43:25.805] [renderer1] [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:11:10)
+    at new y (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:534:424)
+    at new y (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:531:904)
+    at asPosition (/root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asSymbolInformation (/root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:347:85)
+    at /root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:336:42
+    at Array.map (<anonymous>)
+    at Object.asSymbolInformations (/root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/protocolConverter.js:336:23)
+    at /root/.vscode/extensions/small.php-ci-0.4.2/node_modules/vscode-languageclient/lib/client.js:986:62
+    at runNextTicks (internal/process/task_queues.js:59:5)
+    at processImmediate (internal/timers.js:412:9)

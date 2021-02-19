@@ -1,0 +1,13 @@
+{
+	"@class" : "org.apereo.cas.services.RegexRegisteredService",
+	"serviceId" : "^http://admin-testing.com(\\z|/.*)",
+	"name" : "admin-testing.com",
+	"id" : 1610525343,
+	"description" : "Admin Login use SSO",
+	"attributeReleasePolicy" : {
+	"@class" : "org.apereo.cas.services.ReturnAllAttributeReleasePolicy"
+	},
+	"evaluationOrder" : 1110,
+	"logoutType" : "BACK_CHANNEL",
+	"logoutUrl" : "https://cas.example.org:8443/cas/logout"
+}

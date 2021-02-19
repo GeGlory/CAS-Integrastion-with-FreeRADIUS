@@ -1,0 +1,11 @@
+{
+	"@class" : "org.apereo.cas.services.RegexRegisteredService",
+	"serviceId" : "^http://forpus.com(\\z|/.*)",
+	"name" : "forpus.com",
+	"id" : 1610524356,
+	"description" : "Forpus Login use SSO",
+	"attributeReleasePolicy" : {
+	"@class" : "org.apereo.cas.services.ReturnAllAttributeReleasePolicy"
+	},
+	"evaluationOrder" : 1100,
+}

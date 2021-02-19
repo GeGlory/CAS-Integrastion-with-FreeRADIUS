@@ -1,0 +1,12 @@
+{
+	"@class" : "org.apereo.cas.services.RegexRegisteredService",
+	"serviceId" : "^http://localhost/Client-PHP(\\z|/.*)",
+	"name" : "Client-PHP.com",
+	"id" : 1612555230,
+	"description" : "Client PHP",
+	"attributeReleasePolicy" : {
+	"@class" : "org.apereo.cas.services.ReturnAllAttributeReleasePolicy"},
+	"evaluationOrder" : 1119,
+	"logoutType" : "BACK_CHANNEL",
+	"logoutUrl" : "https://cas.example.org:8443/cas/logout"
+}
