@@ -1,6 +1,6 @@
 # CAS Integration with FreeRADIUS
 
-- 👋 Hi, Irvan Suryadi
+- 👋 Hi, I'm Irvan Suryadi
 - 🌱 I’m currently learning about Single Sign On with Apereo CAS and FreeRADIUS
 - 📫 If anything feels confusing please contact irvan.14115002@student.itera.ac.id and I will help you out.
 
